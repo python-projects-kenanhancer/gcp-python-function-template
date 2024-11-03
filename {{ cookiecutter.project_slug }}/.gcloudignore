@@ -1,0 +1,14 @@
+# .gcloudignore
+.gcloudignore
+.git/
+.gitignore
+README.md
+*.md
+*.toml
+poetry.lock
+tests/
+terraform/
+scripts/
+*.zip
+__pycache__/
+*.py[cod]

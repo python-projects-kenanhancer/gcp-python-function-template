@@ -1,0 +1,15 @@
+{
+    "project_name": "My GCP Function",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "version": "0.1.0",
+    "description": "GCP Python Cloud Function",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
+    "python_version": "3.9",
+    "functions_framework_version": "3.8.1",
+    "pytest_version": "8.3.3",
+    "gcp_project_id": "your-gcp-project-id",
+    "gcp_region": "us-central1",
+    "function_name": "hello_world"
+  }
+  
